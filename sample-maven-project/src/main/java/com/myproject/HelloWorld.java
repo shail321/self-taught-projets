@@ -5,11 +5,7 @@ public class HelloWorld
 	public static void main(String arg[])
 	{
 		System.out.println("Hello World");
-		System.out.println("Hello World Changed in github");
-		System.out.println("Hello World Changed in local-repo-2");
-		System.out.println("Hello World Changed in local-repo-2 part2");
-		System.out.println("Hello World Changed in local-repo-1");
-		System.out.println("Hello World Changed in local-repo-2 part3");
+		System.out.println("Addding a new feature under Feature A");
 		
 		
 	}
